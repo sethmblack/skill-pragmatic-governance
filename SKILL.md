@@ -3,8 +3,8 @@ name: pragmatic-governance
 description: 'Evaluate every proposal, policy, or strategy by one criterion: Does it work? Learn from others who have solved similar problems. Abandon approaches that fail regardless of their theoretical elegance.'
 license: MIT
 metadata:
-  version: 1.0.4723
   author: sethmblack
+  version: 1.0.4724
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pragmatic-governance
